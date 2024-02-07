@@ -21,6 +21,7 @@ make
 1. Click on the screen to put random data points.
 2. Press `l` to find the best fit line using linear regression.
 3. Press `r` to reset the screen.
+4. Left click and drag to move the data points.
 
 ## Screenshot
 
